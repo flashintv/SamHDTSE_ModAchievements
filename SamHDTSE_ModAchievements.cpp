@@ -86,7 +86,11 @@ int main()
 		}
 
 		// Sleep for 1 second for the module list to fill up!
+		#ifdef _DEBUG
 		Sleep(1);
+		#else
+		Sleep(10);
+		#endif
 		SuspendThread(pi.hThread);
 
 		//if (!WaitForInputIdle(pi.hProcess, INFINITE))
