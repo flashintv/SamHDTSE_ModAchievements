@@ -7,7 +7,7 @@
 Download SamHDTSE_ModAchievements.exe from the latest releases.
 >| 1st Method: |
 >|:- |
->| Put the `SamHDTSE_ModAchievements.exe` inside the game folder's `/Bin/x64/` folder right besides the `SamHD_TSE_Unrestricted.exe` and launch `SamHDTSE_ModAchievements.exe`. |
+>| Put the `SamHDTSE_ModAchievements.exe` inside the game folder's `/Bin/` folder right besides the `SamHD_TSE_Unrestricted.exe` and launch `SamHDTSE_ModAchievements.exe`. |
 >
 >| 2nd Method: |
 >|:- |
