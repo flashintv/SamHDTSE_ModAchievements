@@ -1,4 +1,7 @@
 # Serious Sam HD: TSE Achievement Enabler
+[![Github All Releases](https://img.shields.io/github/downloads/flashintv/SamHDTSE_ModAchievements/total.svg)]()
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/flashintv/SamHDTSE_ModAchievements)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/flashintv/SamHDTSE_ModAchievements)
 
 ## How to use
 Download SamHDTSE_ModAchievements.exe from the latest releases.
